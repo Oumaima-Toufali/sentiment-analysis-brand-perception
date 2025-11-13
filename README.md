@@ -46,23 +46,24 @@ The objective was to analyze **public sentiment toward a brand** using advanced 
 ```bash
 git clone https://github.com/username/sentiment-analysis-brand-perception.git
 cd sentiment-analysis-brand-perception
+---
 2️⃣ Create a virtual environment and activate it
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
-
+---
 3️⃣ Install dependencies
 pip install -r requirements.txt
-
+---
 4️⃣ Run the notebook
 jupyter notebook notebooks/sentiment_analysis.ipynb
-
+---
 🧑‍💻 Author
 
 Oumaima Toufali
 🎓 Data Science & Cloud Computing | ENSAO
 🔗 LinkedIn
  | GitHub
-
+---
 🏁 Acknowledgment
 
 Special thanks to Prodigy InfoTech for providing a valuable learning experience and mentorship throughout this project.
